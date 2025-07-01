@@ -30,7 +30,7 @@
         <sub><b>alstjd0051</b></sub>
       </a>
       <br />
-      <sub>프론트엔드 리더</sub>
+      <sub>프론트엔드 </sub>
     </td>
     <td align="center">
       <a href="https://github.com/Jung-Taemin">
@@ -39,7 +39,7 @@
         <sub><b>Jung-Taemin</b></sub>
       </a>
       <br />
-      <sub>백엔드 개발 리더</sub>
+      <sub>백엔드 개발 </sub>
     </td>
     <td align="center">
       <a href="https://github.com/E-sanga">
